@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://raw.githubusercontent.com/pangolines/pangolines.github.io/master/images/Pangolin_ok13.jpg)
+[Link](url) and ![Pangolin](assets/img/Pangolin_ok13.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
